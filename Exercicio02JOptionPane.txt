@@ -1,0 +1,16 @@
+import javax.swing.JOptionPane;
+ 
+ public class Exercicio02JOptionPane{
+  
+  public static void main(String[] args){
+
+    double litros = ("Digite o Numero");
+    int ano de consumo = ("Digite o ano ");
+    double valor pago = ("Digite o valor");
+
+    System.out.print("LItros: " + litros);
+
+
+  }
+
+ }
