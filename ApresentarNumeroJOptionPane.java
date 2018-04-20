@@ -6,7 +6,7 @@ public class ApresentarNumeroJOptionPane{
 
          int numero = Integer.parseInt(JOptionPane.showInputDialog("Nume2ro"));
 
-
+     
 
   }
 
